@@ -1,4 +1,4 @@
-# Evolutec ((*Evolução + Tecnologia)*) 💻🌍
+# Evolutec (*Evolução + Tecnologia*) 💻🌍
 
 
 <!--
