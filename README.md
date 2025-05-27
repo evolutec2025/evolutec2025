@@ -1,5 +1,5 @@
-### Seja bem vindo a nossa empresa
-## Evolutec
+### Seja bem vindo a nossa empresa 👋
+## Evolutec (*Evolução + Tecnologia*) 💻🌍
 
 
 <!--
