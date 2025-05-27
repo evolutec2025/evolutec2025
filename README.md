@@ -4,6 +4,7 @@
 
 *Soluções tecnológicas em informática e desenvolvimento Java.*
 
-- ⏳ Empresa em crescimento focada no desenvolvimento de sistemas robustos e escaláveis utilizando Java.
-- ✨Atuamos com práticas recomendadas de engenharia de software, priorizando qualidade, segurança e performance.
-- ⚙ Compartilhamos projetos, estudos e protótipos que refletem nosso compromisso com inovação e evolução contínua.
+- ⏳ Somos uma empresa em crescimento, especializada em informática e desenvolvimento Java.
+- ✨ Atuamos com práticas recomendadas de engenharia de software, priorizando qualidade, segurança e performance.
+- ⚙  Compartilhamos nossos projetos, aprendizados e soluções inovadoras, sempre buscando entregar qualidade e valor para nossos clientes.
+- 📌 Comprometidos com a evolução constante e o desenvolvimento colaborativo.
