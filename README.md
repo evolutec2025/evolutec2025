@@ -1,6 +1,6 @@
 # Evolutec (*Evolução + Tecnologia*) 💻🌍
 
-### Seja bem vindo a nossa empresa 👋😉
+### Seja Bem-vindo a nossa empresa. 👋😉
 
 *Soluções tecnológicas em informática e desenvolvimento Java.*
 
